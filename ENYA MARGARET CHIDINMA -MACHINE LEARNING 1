@@ -1,0 +1,27 @@
+Name: Enya Margaret chidinma 
+Regno: 2022/HND/36245/CS
+
+QUESTION: Pick a particular area of machine learning application and find out how machine learning helps in solving the problem. State the above;
+* Problem statement 
+* Solutions
+* Which ML algorithms are you going to use.
+* The data set.
+
+ANSWER:
+Machine learning has numerous applications in finance, and one such area is credit scoring. Credit scoring is used by lenders to evaluate the creditworthiness of loan applicants and determine the risk of lending to them.
+Problem Statement:
+The problem with credit scoring is to accurately assess the creditworthiness of loan taking into account various factors such as their credit history, income, debt-to-income ratio, and other financial and personal information.
+Solutions:
+Machine learning plays a crucial role in solving this problem by enabling credit scoring models to learn from data and improve their accuracy over time. Machine learning algorithms analyze the data provided by loan applicants to identify patterns and make informed decisions about their creditworthiness.
+Which ML Algorithms are you going to use:
+There are several machine learning algorithms used in credit scoring, including:
+Logistic regression: This algorithm models the probability of a loan applicant defaulting on a loan based on various input factors.
+Decision trees: This algorithm builds a tree-like model to classify loan applicants based on their creditworthiness.
+Support vector machines: This algorithm separates loan applicants into different classes based on their creditworthiness.
+Neural networks: This algorithm uses a network of interconnected nodes to learn from data and make predictions about loan applicants’ creditworthiness.
+The Data Set: The data set required for credit scoring includes information about loan applicants, such as their credit history, income, debt-to-income ratio, and other financial and personal information. Additionally, the data set may include information about previous loans as whether they were repaid on time or not.
+In summary, machine learning helps credit scoring by enabling lenders to accurately assess the creditworthiness of loan applicants, improve their credit scoring models over time, and make informed decisions about lending to them based on their financial and personal information.
+<!---
+2600mage/2600mage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
